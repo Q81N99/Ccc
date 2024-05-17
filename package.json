@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "2captcha": "^3.0.5-2",
+    "discord.js": "^14.14.1",
+    "discord.js-selfbot-v13-fork": "^2.14.10",
+    "node-capmonster": "^0.4.2",
+    "wio.db": "^4.0.22"
+  }
+}
